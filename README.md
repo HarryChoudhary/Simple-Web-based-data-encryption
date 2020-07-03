@@ -1,1 +1,1 @@
-# Simple-Web-based-daa-encryption
+# Simple-Web-based-data-encryption using html and javascript
